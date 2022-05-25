@@ -47,6 +47,8 @@
         <item name="textAllCaps">false</item>
         <item name="android:textColor">@drawable/gradient_textview</item>
         <item name="android:textSize">14dp</item>
+
+
     </style>
 
 
